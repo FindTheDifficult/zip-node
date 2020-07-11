@@ -1,0 +1,23 @@
+{
+  "name": "zip-node",
+  "version": "1.0.0",
+  "description": "A small app to explain how to create zip files with Nodejs and serving them over the network.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FindTheDifficult/zip-node.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FindTheDifficult/zip-node/issues"
+  },
+  "homepage": "https://github.com/FindTheDifficult/zip-node#readme",
+  "dependencies": {
+    "express": "4.17.1",
+    "jszip": "3.5.0"
+  }
+}
